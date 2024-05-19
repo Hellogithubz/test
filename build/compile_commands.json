@@ -1,0 +1,8 @@
+[
+{
+  "directory": "G:/zzl/build",
+  "command": "D:\\MinGW64\\bin\\c++.exe   -g -o CMakeFiles\\first.dir\\main.cpp.obj -c G:\\zzl\\main.cpp",
+  "file": "G:/zzl/main.cpp",
+  "output": "CMakeFiles/first.dir/main.cpp.obj"
+}
+]
